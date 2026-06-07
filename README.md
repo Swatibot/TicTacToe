@@ -75,7 +75,7 @@ Game Board
 
 Winner / Draw Result
 
-![Output2](Output2 .png)
+![Output2](Output2.png)
 
 ---
 
