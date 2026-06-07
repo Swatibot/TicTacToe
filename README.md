@@ -71,11 +71,11 @@ java TicTacToe
 
 Game Board
 
-![Output 1](Output 1.png)
+![Output1](Output1.png)
 
 Winner / Draw Result
 
-![Output 2](Output 2 .png)
+![Output2](Output2 .png)
 
 ---
 
