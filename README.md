@@ -1,4 +1,4 @@
-🎮 Tic-Tac-Toe Game in Java
+🎮Tic-Tac-Toe Game in Java
 
 A simple and interactive Tic-Tac-Toe Game developed using Java Swing. This project allows two players to play the classic game on a 3×3 grid with automatic winner and draw detection.
 
@@ -22,7 +22,7 @@ A simple and interactive Tic-Tac-Toe Game developed using Java Swing. This proje
 
 ---
 
-🛠️ Technologies Used
+🛠️Technologies Used
 
 - Java
 - Java Swing
